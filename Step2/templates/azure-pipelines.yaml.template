@@ -1,5 +1,5 @@
 #### Pipeline
 
 pool:
-    name: PHY
+    name: {{ pool_name }}
     demands: 
